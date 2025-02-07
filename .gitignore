@@ -1,0 +1,12 @@
+PuertoRico_en/
+*pycache*/
+2. RAG.ipynb
+Finance_Laws/
+rags example.py
+.env
+chroma_db/
+chroma_db_clean/
+ginosca.py
+Testing copy.ipynb
+*news.ipynb
+chroma*/
